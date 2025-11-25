@@ -3,6 +3,7 @@
 ## Creation of Development Environment and verify - Sign Up for a Developer Edition Org with Agentforce Vibes
 
 Connect Org With Salesforce Trailhead
+![](https://github.com/nimi-soni/Salesforce/blob/main/Agentforce/salesforce_2.png)
 
 ## Setup Your Development Environment
 
@@ -11,6 +12,8 @@ In this unit you enable a web-based IDE in your special org so you can set up an
 
 1. Click Setup icon and select Agentforce Vibes.
 “Agentforce Vibes menu option below the Setup Menu, next to the user profile on the upper right corner of the screen”
+
+![](https://github.com/nimi-soni/Salesforce/blob/main/Agentforce/s_3.jpg)
 
 2. On the Terms & Conditions, click Accept.
 3. Since you have to navigate back to your playground later, keep both tabs open.
@@ -22,6 +25,8 @@ In this unit you enable a web-based IDE in your special org so you can set up an
 3. Scroll down and click Enable & Start Building.
 Screenshot of the Agentforce input panel with “I agree to the terms” selected.
 
+![](https://github.com/nimi-soni/Salesforce/blob/main/Agentforce/s_4.jpg)
+
 ### Pick Your Workflow Mode
 Plan and Act Modes are key to agentic workflow, helping you balance strategic thinking with hands-on development.
 
@@ -31,6 +36,7 @@ Plan mode provides a conversational, code-safe space where you can explore requi
 2. In the Auto-approve section of the window, ensure the Edit checkbox is unchecked. Note: you can drag the divider to the right to expand the window.
 Screenshot of the Agentforce Vibes task input panel with Act and Edit highlighted.
 
+![](https://github.com/nimi-soni/Salesforce/blob/main/Agentforce/s_5.jpg)
 Note
 The Salesforce DX MCP server is enabled by default in the web-based IDE included in this playground, but for local VS Code users, MCP servers must be installed and enabled manually. To learn more about how to configure your MCP Server, see our documentation.
 
@@ -43,3 +49,9 @@ Note: If the extension requests access to run commands, click the button to Appr
 2. Enter this prompt: List all Lightning Web Components in my local project and in this repository.Copy
 3. Press Enter.
 You should see a message about your project not having any Lightning Web Components (LWC). Never fear, your quest does not end here. Onward to the next unit to fix the LWC issue.
+
+![](https://github.com/nimi-soni/Salesforce/blob/main/Agentforce/S_6.jpg)
+
+![](https://github.com/nimi-soni/Salesforce/blob/main/Agentforce/S_7.jpg)
+
+![](https://github.com/nimi-soni/Salesforce/blob/main/Agentforce/S_8.jpg)
