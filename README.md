@@ -54,4 +54,12 @@ You should see a message about your project not having any Lightning Web Compone
 
 ![](https://github.com/nimi-soni/Salesforce/blob/main/Agentforce/S_7.jpg)
 
+## Use Agentforce to Fix the App
+
+[Demo Instructions](https://trailhead.salesforce.com/content/learn/projects/quick-start-troubleshoot-code-with-dev-agent/use-the-dev-agent-to-fix-the-app?trailmix_creator_id=teamtrailhead&trailmix_slug=quest-dreamforce-2025)
+
 ![](https://github.com/nimi-soni/Salesforce/blob/main/Agentforce/S_8.jpg)
+
+![](https://github.com/nimi-soni/Salesforce/blob/main/Agentforce/S_9.jpg)
+
+![](https://github.com/nimi-soni/Salesforce/blob/main/Agentforce/S_10.jpg)
