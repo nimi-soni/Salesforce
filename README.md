@@ -1,4 +1,4 @@
-# Salesforce Hands-on
+# Salesforce Agentforce Hands-on
 
 ## Creation of Development Environment and verify - Sign Up for a Developer Edition Org with Agentforce Vibes
 
